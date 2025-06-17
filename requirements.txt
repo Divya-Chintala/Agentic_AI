@@ -20,3 +20,5 @@ youtube_search
 langgrapgh
 langchain-chroma
 hf_xet
+duckduckgo-search
+yfinance
