@@ -18,3 +18,5 @@ langchain-pinecone
 langchain_weaviate
 youtube_search
 langgrapgh
+langchain-chroma
+hf_xet
