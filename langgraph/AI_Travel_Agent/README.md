@@ -1,4 +1,4 @@
- # AI Travel Agent – LangGraph + LLM Travel Planner with real-time data🤖✈️
+ ## AI Travel Agent - Interactive Travel Planner with real-time data🤖✈️
 
 This project demonstrates a LangGraph‑based *AI Travel Agent* implemented. It guides users through trip planning by interacting with a language model, leveraging real-time travel data using APIs to suggest personalized itineraries, flights, accommodations, and activities.
 
