@@ -83,6 +83,7 @@ Modular tool wrappers used across agents:
 
 ## Run Locally
 
+```
 # Step 1: Clone repo
 git clone https://github.com/Divya-Chintala/Agentic_AI.git
 cd AGENTIC_AI
