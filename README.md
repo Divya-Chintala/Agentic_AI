@@ -70,7 +70,7 @@ Getting started with langGrapgh: [Intro](https://github.com/Divya-Chintala/Agent
 ---
 ###  langgraph_workflow
 
-- Defining complex [workflow](https://github.com/Divya-Chintala/Agentic_AI/blob/f4a23e8c09d23f0893d86c85b9db8142556539e5/langgraph/langgraph_workflow.ipynb)
+- Defining complex [workflow](https://github.com/Divya-Chintala/Agentic_AI/blob/f4a23e8c09d23f0893d86c85b9db8142556539e5/langgraph/langgraph.ipynb)
 
 ---
 
