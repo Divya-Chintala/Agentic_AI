@@ -59,7 +59,7 @@ A [Corrective RAG](https://github.com/Divya-Chintala/Agentic_AI/blob/60a29dce7c4
 
 ###  langgraph_intro
 
-Getting started with langGrapgh: [Intro](https://github.com/Divya-Chintala/Agentic_AI/tree/60a29dce7c4c624a5aee7c65b0b7e45f9a7fe9c2/langgraph)
+Getting started with langGrapgh: [Intro](https://github.com/Divya-Chintala/Agentic_AI/blob/f4a23e8c09d23f0893d86c85b9db8142556539e5/langgraph/langgraph_intro.ipynb)
 
 - LangGraph workflows
 
@@ -68,10 +68,14 @@ Getting started with langGrapgh: [Intro](https://github.com/Divya-Chintala/Agent
 - Tool invocation flows
 
 ---
+###  langgraph_workflow
+
+- Defining complex [workflow](https://github.com/Divya-Chintala/Agentic_AI/blob/f4a23e8c09d23f0893d86c85b9db8142556539e5/langgraph/langgraph_workflow.ipynb)
+
 
 ### tools/
 
-Modular tool wrappers used across agents:
+Modular [tool](https://github.com/Divya-Chintala/Agentic_AI/blob/f4a23e8c09d23f0893d86c85b9db8142556539e5/langgraph/tools.ipynb) wrappers used across agents:
 
 - TavilyTool for web search
 
