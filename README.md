@@ -5,30 +5,11 @@ In this repository, I explore and experiment with **AI agents**, **multi-agent s
 
 ---
 
-## Repository Structure
-
-AGENTIC_AI/
-│
-├── Langgraph_Multi_Agents/
-│ ├── Network Multi Agents/ 
-│ └── Supervisor Multi Agents/ 
-│
-├── langgraph/
-│ ├── AI Travel Agent/ # LangGraph-powered agent for travel planning (LangChain + tools)
-│ ├── Corrective RAG (CRAG)/ 
-│ ├── langgraph_intro/ 
-│ └── tools/ # Custom tools: Tavily, REPL Coder, Search API, etc.
-│
-├── requirements.txt
-└── README.md
-
----
-
 ## Langgraph_Multi_Agents
 
 ### 1. Network Multi Agents
 
-📄 [`1_Network_Multi_Agents.ipynb`](https://github.com/Divya-Chintala/Agentic_AI/blob/e7dd07492185ad69f7effbfd818aa1f835e5c2ed/Langgraph_Multi_Agents/1_Network_Multi_Agents.ipynb)  
+ [`1_Network_Multi_Agents.ipynb`](https://github.com/Divya-Chintala/Agentic_AI/blob/e7dd07492185ad69f7effbfd818aa1f835e5c2ed/Langgraph_Multi_Agents/1_Network_Multi_Agents.ipynb)  
 
 **Use-Case:** A cooperative task executed by two agents using a LangGraph-based workflow.
 
@@ -37,14 +18,7 @@ AGENTIC_AI/
 | `researcher` | Web search       | `tavily_tool`          |
 | `chartmaker` | Chart generation | `REPL_Coder_tool`      |
 
-**Prompt Example:**
 
-```python
-app.invoke({
-  "messages": [
-    ("user", "get the UK's GDP over the past 3 years, then make a line chart of it. Once you make the chart, finish.")
-  ]
-})```
 
 ---
 
@@ -52,13 +26,16 @@ app.invoke({
 
 -  In Progress
 
+
+ [`2_Supervisor__Multi_Agents.ipynb`](https://github.com/Divya-Chintala/Agentic_AI/blob/29fb465d93a22eb80ebb039a02aa9d79b6be85fd/Langgraph_Multi_Agents/2_Supervisor_Multi_Agents.ipynb)  
+
 ---
 
 ## langgraph/
 
 ### AI Travel Agent
 
-Agentic travel assistant using LangGraph + custom tools to:
+[Agentic travel assistant](https://github.com/Divya-Chintala/Agentic_AI/tree/60a29dce7c4c624a5aee7c65b0b7e45f9a7fe9c2/langgraph/AI_Travel_Agent) using LangGraph + custom tools to:
 
 - Fetch destinations
 
@@ -72,7 +49,7 @@ Agentic travel assistant using LangGraph + custom tools to:
 
 ### Corrective RAG (CRAG)
 
-A Corrective RAG pipeline where:
+A [Corrective RAG](https://github.com/Divya-Chintala/Agentic_AI/blob/60a29dce7c4c624a5aee7c65b0b7e45f9a7fe9c2/langgraph/Corrective_RAG_CRAG.ipynb) pipeline where:
 
 - Initial retrieval results are validated by a tool-checking node
 
@@ -82,7 +59,7 @@ A Corrective RAG pipeline where:
 
 ###  langgraph_intro
 
-Getting started with langGrapgh:
+Getting started with langGrapgh: [Intro](https://github.com/Divya-Chintala/Agentic_AI/tree/60a29dce7c4c624a5aee7c65b0b7e45f9a7fe9c2/langgraph)
 
 - LangGraph workflows
 
