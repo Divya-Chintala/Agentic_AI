@@ -13,12 +13,12 @@ The application is deployed using **Streamlit**, and integrates the following:
 
 ## Tech Stack
 
-Streamlit
-LangGraph
-LangChain
-Pinecone
-HuggingFace
-Groq
+- Streamlit
+- LangGraph
+- LangChain
+- Pinecone
+- HuggingFace
+- Groq
 
 ---
 
