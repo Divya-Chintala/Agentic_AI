@@ -37,7 +37,7 @@ Groq
 https://rag-wine-recommeder.streamlit.app/
 
 ### Query:
-> _"Suggest australian wine with cherry taste with 30$"_
+> _"Suggest australian wine with cherry taste within 30$"_
 
 ### Output:
 
