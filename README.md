@@ -5,6 +5,19 @@ In this repository, I explore and experiment with **AI agents**, **multi-agent s
 
 ---
 
+## RAG 
+
+### Wine recommedation system
+
+RAG pipeline to generate personalized [wine recommendations](https://rag-wine-recommeder.streamlit.app/) based on user queries using an LLM (LLaMA-3.1-8B-Instant via Groq) and a Pinecone-powered vector store.
+
+
+
+### Corrective RAG (CRAG)
+
+A [Corrective RAG](https://github.com/Divya-Chintala/Agentic_AI/blob/60a29dce7c4c624a5aee7c65b0b7e45f9a7fe9c2/langgraph/Corrective_RAG_CRAG.ipynb)
+
+
 ## Langgraph_Multi_Agents
 
 ### 1. Network Multi Agents
