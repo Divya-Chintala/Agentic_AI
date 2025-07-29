@@ -18,3 +18,7 @@ matplotlib
 tqdm
 requests
 altair
+sentence-transformers
+transformers
+torch
+
