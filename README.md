@@ -11,7 +11,7 @@ In this repository, I explore and experiment with **AI agents**, **multi-agent s
 
 RAG pipeline to generate personalized [wine recommendations](https://rag-wine-recommeder.streamlit.app/) based on user queries using an LLM (LLaMA-3.1-8B-Instant via Groq) and a Pinecone-powered vector store.
 
-
+---
 
 ### Corrective RAG (CRAG)
 
