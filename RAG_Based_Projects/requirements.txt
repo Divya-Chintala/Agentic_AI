@@ -6,6 +6,7 @@ langchain-groq
 langchain-huggingface
 langchain-openai
 langchain-pinecone
+langgraph
 pinecone
 huggingface-hub
 pydantic
