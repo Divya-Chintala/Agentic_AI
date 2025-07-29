@@ -15,7 +15,7 @@ RAG pipeline to generate personalized [wine recommendations](https://rag-wine-re
 
 ### Corrective RAG (CRAG)
 
-A [Corrective RAG](https://github.com/Divya-Chintala/Agentic_AI/blob/60a29dce7c4c624a5aee7c65b0b7e45f9a7fe9c2/langgraph/Corrective_RAG_CRAG.ipynb)
+[Corrective RAG](https://github.com/Divya-Chintala/Agentic_AI/blob/60a29dce7c4c624a5aee7c65b0b7e45f9a7fe9c2/langgraph/Corrective_RAG_CRAG.ipynb)
 
 
 ## Langgraph_Multi_Agents
