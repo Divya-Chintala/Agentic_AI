@@ -1,0 +1,19 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load the CSV file into a DataFrame
+file_path = 'data.csv'  # Replace with your CSV file name if different
+data = pd.read_csv(file_path)
+
+# Plot histograms for each numerical column and show them
+for column in data.select_dtypes(include=['float', 'int']).columns:
+    plt.figure(figsize=(8, 6))
+    plt.hist(data[column], bins=30, edgecolor='black')
+    plt.title(f'Distribution of {column}')
+    plt.xlabel(column)
+    plt.ylabel('Frequency')
+    plt.grid(True)
+    plt.savefig(f'{column}_distribution.png')  # Save each plot as an image file
+    plt.show()  # Display the plot
+
+print("Displayed and saved histograms for each numerical column.")

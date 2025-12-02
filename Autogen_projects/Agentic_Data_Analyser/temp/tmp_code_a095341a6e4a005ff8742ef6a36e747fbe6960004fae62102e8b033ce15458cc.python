@@ -1,0 +1,21 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load the CSV file
+data = pd.read_csv('iris.csv')
+
+# Determine which column contains the flower type information
+# We'll assume the column is named 'species' based on common naming
+flower_types = data['species'].value_counts()
+
+# Create a bar plot for the flower types
+flower_types.plot(kind='bar', color='skyblue', title='Count of Flower Types')
+
+# Label the axes
+plt.xlabel('Flower Types')
+plt.ylabel('Count')
+
+# Save the plot to a file
+plt.savefig('output.png')
+
+print("The graph of the types of flowers has been saved as 'output.png'.")
