@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What are the primary flavors and country of origin for the Nicosia 2013 Vulkà Bianco?",
+    "ground_truth": "The Nicosia 2013 Vulkà Bianco is a White Blend from Italy with flavors including unripened apple, citrus, and dried sage."
+  },
+  {
+    "question": "I need a smooth, structured Portuguese Red wine under $20. What is recommended?",
+    "ground_truth": "The Quinta dos Avidagos 2011 Avidagos Red (Douro) is a smooth, structured Portuguese Red priced at $15.00."
+  },
+  {
+    "question": "What US Pinot Gris has dominant lime flavors, a snappy texture, and costs $14?",
+    "ground_truth": "The Rainstorm 2013 Pinot Gris (Willamette Valley) from the US is tart and snappy, dominated by lime flesh and rind flavors, and costs $14.00."
+  },
+  {
+    "question": "Describe the palate of the opulent US Pinot Gris with notes of guava and mango, and state its price.",
+    "ground_truth": "The US Pinot Gris, priced at $19.00, features a more opulent palate with notes of honey-drizzled guava and mango, starting with aromas of pineapple rind and lemon pith."
+  },
+  {
+    "question": "What is the price and main flavor profile of the 'Sweet Cheeks 2012 Vintner's Reserve Pinot Noir' from the US?",
+    "ground_truth": "This US Pinot Noir is priced at $23.00 and has black cherry and raspberry aromas with a hint of vanilla, showing firm structure."
+  },
+  {
+    "question": "What Spanish Tempranillo is highly tannic, has pine forest and balsamic notes, and costs $65?",
+    "ground_truth": "The Spanish Tempranillo, priced at $65.00, is rough and tannic with pine forest and balsamic notes."
+  },
+  {
+    "question": "What is a rich, full French White Blend with apricot, nectarine, and honeysuckle aromas, and what is its price?",
+    "ground_truth": "The French White Blend, priced at $16.00, is rich and full with aromas of apricot, nectarine, and honeysuckle, finishing with a hint of spice."
+  },
+  {
+    "question": "I need a light and crisp US Chardonnay with green apple and pear flavors. What is the price and country?",
+    "ground_truth": "This US Chardonnay is light and crisp, offering flavors of green apple and pear, and is priced at $15.00."
+  },
+  {
+    "question": "What German Riesling, priced at $24, is off-dry with electric acidity and notes of petrol and slate?",
+    "ground_truth": "The German Riesling, priced at $24.00, is off-dry, features electric acidity and good tension, and carries notes of petrol, lime, and slate."
+  },
+  {
+    "question": "Which US Syrah has concentrated black fruit, espresso, and chocolate notes, and costs $60?",
+    "ground_truth": "The US Syrah, priced at $60.00, is powerful and structured, showing concentrated black fruit, espresso, and chocolate."
+  },
+  {
+    "question": "Describe the tannins and flavor of the $40 US Red Blend and suggest a pairing need.",
+    "ground_truth": "This US Red Blend is priced at $40.00, offers sweet oak, cherry, and plum flavors, and its high tannins suggest it needs to be paired with a fatty meal."
+  },
+  {
+    "question": "What is an Italian Sangiovese that is light-bodied, fresh, and best served slightly chilled?",
+    "ground_truth": "The Italian Sangiovese, priced at $18.00, is light-bodied and fresh with tart raspberry and cranberry flavors, and is best served slightly chilled."
+  },
+  {
+    "question": "What is a Chilean Cabernet Sauvignon under $15 with intense herbaceous notes of green pepper and cassis?",
+    "ground_truth": "The Chilean Cabernet Sauvignon, priced at $12.00, is medium-bodied with intense herbaceous notes, green pepper, and cassis."
+  },
+  {
+    "question": "Describe the Malbec from Argentina that is smooth and plush with minimal oak influence.",
+    "ground_truth": "The Malbec from Argentina, priced at $20.00, is smooth and plush on the palate with violet and dark berry aromas and minimal oak influence."
+  },
+  {
+    "question": "Which Australian Shiraz, priced at $55, is full-bodied and has notable eucalyptus and mint characteristics?",
+    "ground_truth": "The Australian Shiraz, priced at $55.00, is full-bodied, features eucalyptus, mint, and blackberry flavors, and has firm tannins and a long finish."
+  }
+]
